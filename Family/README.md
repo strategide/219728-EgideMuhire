@@ -64,3 +64,6 @@ All produce the same output:
 Good
 afternoon!
 ```
+
+# Tiffany's Solution
+Tiffany's [solution](Tiffany_Family.cpp) has also been posted. It's a significantly simpler solution in only 7 lines of code. 😎
