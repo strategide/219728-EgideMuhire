@@ -2,7 +2,8 @@
     "files.associations": {
         ".env.json": "json",
         "ostream": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "istream": "cpp"
     },
     "cSpell.words": [
         "Strathmore"
